@@ -6,6 +6,11 @@
 
 VERSION 1
 
-a44f7352-bc4b-41e5-9651-8b49903959b4:bolts and nuts:bolts and nuts
-eb5537c7-d83b-471f-899f-107e5bf75b3e:bolts and nuts/bolts:bolts and nuts-bolts
-89c55cb3-29c2-43dd-a802-4e5248bf38bc:bolts and nuts/nuts:bolts and nuts-nuts
+107421d3-daab-496b-b163-ef3b5bb919de:boxes:boxes
+334428ac-ac56-4181-bbc1-09b9026e7313:electronics:electronics
+53b9264b-0457-4e66-a703-7dbac825c2b2:electronics/arduino:electronics-arduino
+2e7400a3-11ac-4713-bc8e-e041a06af07a:electronics/battery:electronics-battery
+53b0eec4-af32-4f25-9814-288ab5c09143:mechanics:mechanics
+abec32fd-ca8f-4cab-95fc-4cd14f0478f7:mechanics/bolts and nuts:mechanics-bolts and nuts
+eb5537c7-d83b-471f-899f-107e5bf75b3e:mechanics/bolts and nuts/bolts:mechanics-bolts and nuts-bolts
+89c55cb3-29c2-43dd-a802-4e5248bf38bc:mechanics/bolts and nuts/nuts:mechanics-bolts and nuts-nuts
