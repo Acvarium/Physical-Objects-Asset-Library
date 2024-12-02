@@ -8,12 +8,13 @@ VERSION 1
 
 107421d3-daab-496b-b163-ef3b5bb919de:boxes:boxes
 334428ac-ac56-4181-bbc1-09b9026e7313:electronics:electronics
+5f326205-b1c7-478e-b58a-574a94928bed:electronics/AC power:electronics-AC power
+617a8186-dfc6-4020-ac30-330d7a76bb05:electronics/DC power:electronics-DC power
 53b9264b-0457-4e66-a703-7dbac825c2b2:electronics/arduino:electronics-arduino
 2e7400a3-11ac-4713-bc8e-e041a06af07a:electronics/battery:electronics-battery
 0285324e-0a00-4e1b-9bdd-abfa93d38a30:electronics/light:electronics-light
 b0b10b63-4fe9-4f67-aa2f-9c3e5bf4a700:electronics/motor:electronics-motor
 4df1cefa-d792-4cad-bb88-a58676a7e5da:electronics/motor/stepper motor:electronics-motor-stepper motor
-617a8186-dfc6-4020-ac30-330d7a76bb05:electronics/power:electronics-power
 a2b69cae-1358-4153-8e0d-7b58a6f54a17:electronics/switches:electronics-switches
 c785b19c-bd7a-45e9-9963-ebf252c5a8fe:electronics/usb:electronics-usb
 53b0eec4-af32-4f25-9814-288ab5c09143:mechanics:mechanics
